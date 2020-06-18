@@ -16,3 +16,9 @@ Step 2. Add the dependency
         dependencies {
 	        implementation 'com.github.myt041:ToastController:0.0.1'
 	   }
+	   
+Step 3. Use
+
+        DebugToast.print(this,"hello world")
+
+	   
