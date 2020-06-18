@@ -14,5 +14,5 @@ Step 2. Add the dependency
 
  
         dependencies {
-	        implementation 'com.github.myt041:ToastController:Tag'
+	        implementation 'com.github.myt041:ToastController:0.0.1'
 	   }
