@@ -1,0 +1,3 @@
+include ':toastControllerLib'
+include ':app'
+rootProject.name = "Toast Controller"
